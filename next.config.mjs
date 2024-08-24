@@ -17,6 +17,10 @@ const nextConfig = {
           protocol: 'https',
           hostname: 'img.clerk.com'
         },
+        {
+          protocol: 'https',
+          hostname: 'exuberant-anteater-223.convex.cloud'
+        },
       ]
     }
   };
